@@ -1,2 +1,10 @@
 # api_stand_test2
-Proyecto de prueba para control de versiones con Git y GitHub.
+Este proyecto contiene pruebas y ejercicios de automatización con Python y API Testing.
+
+## Estructura del proyecto
+- `main.py` → Script principal
+- `tests/` → Carpeta con casos de prueba
+- `README.md` → Documentación del proyecto
+
+## Autor
+Luis Fernando López
